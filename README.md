@@ -6,7 +6,7 @@
 
 - Recent Projects Completed : I do not have many notable projects at the moment only very minor things however I am expanding my knowledge on C++ programming to hopefully create some in the future. I am also creating a database in university using SQL which is valuable knowledge to have. I have created some very small C++ projects in University which will help me to understand the fundamentals of programming and will eventually lead to more signficant projects.
 
-Some notable small C++ projects i have completed include
+Some notable small C++ projects i have completed include:
 - A program that calculates an employees pay with numerous benefits this helped me gain an understanding of output and calculations in C++
 - A program that simulates a resturant where the user can input how many of each burger was sold and then calculates the total profits for the day. This helped me learn about user input and calculations in C++
 - A program that simulates the tossing of a coin where the user enters heads or tails and teh program determines if you win or lose. This helped me learn about randomisation in C++ as well as IF statements.
@@ -16,3 +16,5 @@ Some notable small C++ projects i have completed include
 - A program that takes user inputted test scores and stores them in an array it then sorts the scores in asecnding order and finds the average and displays both the user can also choose the size of an array. This required me to learn how to sort in C++ and use pointers.
 
 These are just a few examples of small programs i have made so far which has helped me understand the fundamentals of C++ and has allowed me to learn numerous techniques 
+
+Contact me at: NathanSEdwards14@gmail.com
