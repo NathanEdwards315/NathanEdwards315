@@ -10,7 +10,7 @@
 &emsp; &emsp;
 
 
-     ![c++ logo 2](https://github.com/user-attachments/assets/7c0a84a3-7a68-45a4-a93e-27bfc1d6cf55)  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![python-logo-4k-i6](https://github.com/user-attachments/assets/93a8742d-79c8-4ed7-ba46-44c5881353d5) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![com037-scaled](https://github.com/user-attachments/assets/906e9dc1-52e8-48fc-8d28-753f721f8e7b)
+     ![c++ logo 2](https://github.com/user-attachments/assets/7c0a84a3-7a68-45a4-a93e-27bfc1d6cf55)   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![python-logo-4k-i6](https://github.com/user-attachments/assets/93a8742d-79c8-4ed7-ba46-44c5881353d5)  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![com037-scaled](https://github.com/user-attachments/assets/906e9dc1-52e8-48fc-8d28-753f721f8e7b)
 
 &emsp; &emsp;
 &emsp; &emsp;
@@ -20,7 +20,7 @@
 
 - Hobbies : My hobbies mostly revolve around Computers I enjoy things such as video games and programming. I also have a intrest and am very knowledgeable on computer hardware and have assembled computers in the past with individual parts I am espically proud of my own PC which i saved up for and assembled with high-end parts which i now use everyday this took lots of planning and research and required me to understand exactly how computers function and each part. I also partake in weight training in my spare time as i feel physical fitness has a huge amount of benefits.
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  ![Snapchat-394867761](https://github.com/user-attachments/assets/871020b0-198a-4f0f-9953-9a59f58302b9) 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  ![Snapchat-394867761](https://github.com/user-attachments/assets/871020b0-198a-4f0f-9953-9a59f58302b9) 
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
 
